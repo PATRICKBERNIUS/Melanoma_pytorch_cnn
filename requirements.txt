@@ -1,0 +1,8 @@
+torch>=2.5
+torchvision>=0.20
+numpy
+opencv-python
+scikit-learn
+matplotlib
+optuna>=4.0
+plotly

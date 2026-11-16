@@ -21,7 +21,7 @@ Evaluated once on the held-out test set (1,000 images: 500 benign, 500 malignant
 
 ## Dataset
 
-*Melanoma Skin Cancer Dataset of 10,000 Images* on Kaggle: [add dataset link here].
+*Melanoma Skin Cancer Dataset of 10,000 Images* on Kaggle: [https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images?resource=download].
 
 - **Training:** the benign class was trimmed to match the malignant count, giving a balanced set of 9,210 images, then split 80/20 into **7,368 training** and **1,842 validation** images.
 - **Test:** the dataset's own test split, 500 benign and 500 malignant.
